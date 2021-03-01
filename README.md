@@ -1,6 +1,7 @@
 # RedditBot
  A reddit bot with a lot of functionality.
  
+![preview]
 ## Main features
  * Auto-reply to submissions on the selected subreddit
  * Customizable messages' texts, delays etc.
@@ -26,3 +27,6 @@ You bear the full responsibility of your actions and acknowledge that this softw
 This software's main purpose is NOT to be used maliciously, or on any subreddit that you do not own, or have the right to use.
 
 By using this software, you automatically agree to the above.
+
+
+[preview]: https://repository-images.githubusercontent.com/343395445/0b227e80-7aa3-11eb-9008-ab10e513e72e
