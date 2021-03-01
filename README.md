@@ -1,5 +1,12 @@
 # RedditBot
  A reddit bot with a lot of functionality.
+ 
+## Main features
+ * Auto-reply to submissions on the selected subreddit
+ * Customizable messages' texts, delays etc.
+ * Reply to responses to bot's comments or upvote/downvote them **(SOON)**
+ * Upvote or downvote every submission on a subreddit
+ * Simple UI
 
 ## Disclamer 
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
