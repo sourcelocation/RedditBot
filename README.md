@@ -19,6 +19,12 @@
 ## Usage
  To use RedditBot on your computer, you need to download the source code and run the file called `reddit_bot.py`.
  There are multiple ways to download the source code. First is by clicking green button "Code" and the second is using `git clone https://github.com/ExeRhythm/RedditBot/`. To do so, you need to have to have `git` installed on your machine. 
+ ```
+ git clone https://github.com/ExeRhythm/RedditBot/
+ cd RedditBot
+ pip3 install -r requirements.txt
+ python3 reddit_bot.py
+ ```
 
 ## Disclamer 
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
