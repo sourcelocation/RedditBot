@@ -1,7 +1,6 @@
 # RedditBot
  A reddit bot with a lot of functionality.
- 
-## Main menu
+
 ![preview]
 
 ## Main features
