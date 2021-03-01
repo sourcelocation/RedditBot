@@ -2,6 +2,10 @@ import praw
 import random
 from debug_functions import *
 import time
+import signal
+import sys
+
+signal.signal(signal.SIGINT, lambda x, y: sys.exit(0))
 
 def add_viewed(id):
 	f = open("Resources/viewed_submissions.txt", "a")
