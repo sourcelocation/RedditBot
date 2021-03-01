@@ -30,4 +30,4 @@ This software's main purpose is NOT to be used maliciously, or on any subreddit 
 By using this software, you automatically agree to the above.
 
 
-[preview]: https://repository-images.githubusercontent.com/343395445/0b227e80-7aa3-11eb-9008-ab10e513e72e
+[preview]: https://raw.githubusercontent.com/ExeRhythm/RedditBot/main/preview.png
