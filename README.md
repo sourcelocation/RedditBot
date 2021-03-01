@@ -8,7 +8,7 @@
  * Upvote or downvote every submission on a subreddit
  * Simple UI
  
-# Prerequisites
+## Prerequisites
  * Python 3 installed
  * Stable internet connection
  * `git` installed on your machine (optional)
