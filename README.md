@@ -1,7 +1,9 @@
 # RedditBot
  A reddit bot with a lot of functionality.
  
+## Main menu
 ![preview]
+
 ## Main features
  * Auto-reply to submissions on the selected subreddit
  * Customizable messages' texts, delays etc.
