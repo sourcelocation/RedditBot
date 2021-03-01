@@ -1,0 +1,20 @@
+{
+    "data": {
+        "auto_messages": {
+            "chance": 0.25,
+            "messages": [
+                "Lmao",
+                "Nice meme",
+                "Laughing so hard at this",
+                "Why am I laughing at this meme...?",
+                "Lel funny meme",
+                "Wow, bravo, you made me smile a bit"
+            ],
+            "subreddit": "meme"
+        },
+        "client_id": "fyY_6CVLgK8uxw",
+        "client_secret": "M2KmpV77sV86AkusKaJXkRyQBXMEjg",
+        "password": "Tfp0exploit",
+        "username": "pretty_nice_meme_bot"
+    }
+}
