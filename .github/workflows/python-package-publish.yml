@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: pypi-publish
+      uses: pypa/gh-action-pypi-publish@v1.4.2
     - uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
